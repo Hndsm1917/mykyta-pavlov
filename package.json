@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Hndsm1917/mykyta-pavlov/issues"
   },
-  "homepage": "https://github.com/Hndsm1917/mykyta-pavlov#readme"
+  "homepage": "https://github.com/Hndsm1917/mykyta-pavlov#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
