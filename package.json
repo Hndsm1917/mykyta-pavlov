@@ -1,0 +1,19 @@
+{
+  "name": "mykyta-pavlov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hndsm1917/mykyta-pavlov.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hndsm1917/mykyta-pavlov/issues"
+  },
+  "homepage": "https://github.com/Hndsm1917/mykyta-pavlov#readme"
+}
